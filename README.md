@@ -39,7 +39,7 @@ LineageOS 14.1 (Based on Android 7.1.2 Nougat)
 * FM Radio 
 * CM Profiles (Does not affect general use) 
 * SELinux Enforcing 
-
+* Live Wallpapers
 
 
 # Includes: 
